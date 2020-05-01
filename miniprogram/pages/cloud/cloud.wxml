@@ -1,0 +1,10 @@
+<button bindtap="insert">添加</button>
+<button bindtap="update">修改</button>
+<button bindtap="select">查找</button>
+<button bindtap="delete">删除</button>
+<view>云函数</view>
+<button bindtap="sum">sum</button>
+<button bindtap="getOpenCode">getOpenCode</button>
+<button bindtap="bantchDelete">批量删除</button>
+<view>云存储</view>
+<button bindtap="upload">上传图片</button>
